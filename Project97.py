@@ -15,6 +15,7 @@ else:
     number=rand.randint(1,10)
     print("Number Guessing game")
     print("Guess number between (1 to 9)")
+     
 
 # variables
 chanceCount=0
